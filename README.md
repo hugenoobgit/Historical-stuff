@@ -10,3 +10,9 @@ Bunch of docs collected and typed up with the intention of organizing and making
 
 ## Potato Famine:
   [Sketch about survival during famine, 16th February 1856](./IrishSketchOSullivan18021856 "Potato famine sketch, 16th February 1856")
+  
+## Tithe Wars:
+  [Irish Tithe Bill 1838, 30th June 1838](./IrishTithesBill30061838 "passing of the new Tithe Bill, 30th June 1838)
+  [letter from Archbishop Murray, 26th September 1835](./letterFromCatholicArchbishopDublin12091836 "letter about Dens Theology 26th September 1835")
+  [Famine, 18th July 1831](./IrishfamineIn1831 "Describing the famine, 18th July 1831")
+  
