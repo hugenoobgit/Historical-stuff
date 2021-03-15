@@ -8,5 +8,5 @@ Bunch of docs collected and typed up with the intention of organizing and making
   
   [Irish Famine Fund Abandoned,15th November 1890]( ./IrishFaminePolititiciansRefuseAideFromUS15111890 "Irish Famine Fund Abandoned,15th November 1890")
 
-## Potato Famine 
+## Potato Famine:
   [Sketch about survival during famine, 16th February 1856](./IrishSketchOSullivan18021856 "Potato famine sketch, 16th February 1856")
