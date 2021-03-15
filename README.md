@@ -7,3 +7,6 @@ Bunch of docs collected and typed up with the intention of organizing and making
   [The American Irish Famine fund, threatened collapse, 18th October 1890]( https://github.com/hugenoobgit/Historical-stuff/blob/af6f325a056ad4def7a7859c02bca199fd269878/IrishFamineEffortToPreventUSaidinUS16101890 "The American Irish Famine fund, threatened collapse, 18th October 1890")
   
   [Irish Famine Fund Abandoned,15th November 1890]( ./IrishFaminePolititiciansRefuseAideFromUS15111890 "Irish Famine Fund Abandoned,15th November 1890")
+
+## Potato Famine 
+  [Sketch about survival during famine, 16th February 1856](./IrishSketchOSullivan18021856 "Potato famine sketch, 16th February 1856")
